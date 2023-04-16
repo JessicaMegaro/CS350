@@ -23,7 +23,7 @@ Learning to program microcontrollers and become more familiar with drivers, hard
 
 How did you make this project maintainable, readable, and adaptable?
 
-This project was fairly simple code and straight forward. I used functions that can be reused and are simply maintained.
+This project was fairly simple code and straight forward. I used functions that can be reused and are simply maintained. Using standard coding and commenting by industry standards is also important. 
 
 
 
