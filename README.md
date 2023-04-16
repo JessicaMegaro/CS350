@@ -31,8 +31,20 @@ This project was fairly simple code and straight forward. I used functions that 
 
 
 Summarize the project and what problem it was solving.
+
+GPIOinterrupt.c was created to make a prototype of a thermostat for SysTec. The thermostat had to read the room temperature, detect button pushes, and simulate sending data to a server on a timed schedule.
+
 What did you do particularly well?
+I believe I did particular well learning about peripherals and microcontrollers as a whole. I did multiple deep dives into types of microcontrollers, peripherals and options available from manufacturers and how they are used in the world. 
+
 Where could you improve?
+I can improve by not agonizing over details. Many times, instructions seem very vague to me and I tend to overanalyze them, resulting in overengineering the projects. This has resulted in other projects coming with feedback as "being over complicated".
+
 What tools and/or resources are you adding to your support network?
+The resources added during this project included navigating data sheets for multiple types of microcontrollers and the websites of chip and board manufacturers.
+
 What skills from this project will be particularly transferable to other projects and/or course work?
+Coding in C and for embedded systems will be particularly useful for other coursework and also personal projects.
+
 How did you make this project maintainable, readable, and adaptable?
+Using functions, consistent form and structure and consisten naming conventions made the code easy to maintain and read.
